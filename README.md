@@ -3,7 +3,7 @@ To see the entire project, please use the link below.
 
 https://colab.research.google.com/drive/1-BqlaA5gUtQCxpodSqckxJQWcMfmFiOq?usp=sharing
 
-
+<b><h2>Air Quality Analysis in Poland</h2></b>
 This project aims to analyze the values of PM10 and PM2.5 parameters in Poland, focusing on air quality assessment. 
 The analysis includes data visualization, preprocessing, and preparation to gain insights into the trends and patterns of air pollution across different regions of Poland.
 
